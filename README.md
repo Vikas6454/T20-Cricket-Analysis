@@ -99,12 +99,6 @@ Scraped data includes:
 
 ---
 
-## 🙋‍♂️ Author
-
-**Rhythm Garg**  
-📧 rhythmcgarg@gmail.com  
-🌐 [Portfolio](https://rhythm-portfolio-woad.vercel.app/)
-
 ---
 
 ## 📝 License
